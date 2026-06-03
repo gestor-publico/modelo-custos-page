@@ -1,0 +1,373 @@
+<!--
+  Fragmento para Plone (editor Gov.br) — Novo Modelo de Custos
+  Gerado por: python scripts/build-plone-fragment.py
+
+  ANTES DE COLAR:
+  1. Suba assets/css/hotsite.css como Arquivo no Plone e copie a URL de download.
+  2. Substitua {{URL_HOTSITE_CSS}} abaixo pela URL absoluta (https://...).
+  3. Se o tema NÃO carregar o DS, descomente os links opcionais e preencha {{URL_CORE_CSS}}.
+  4. Cole no modo HTML da página (não cole index.html inteiro).
+
+  Ver: docs/plone-publicacao.md
+-->
+
+<link rel="stylesheet" href="{{URL_HOTSITE_CSS}}" />
+
+<!--
+  Opcional — só se o tema do portal não incluir @govbr-ds/core 3.7:
+<link rel="stylesheet" href="https://cdngovbr-ds.estaleiro.serpro.gov.br/design-system/fonts/rawline/css/rawline.css" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900&display=swap" />
+<link rel="stylesheet" href="{{URL_CORE_CSS}}" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+-->
+
+<div class="hotsite-plone">
+  <main id="conteudo" class="hotsite-main">
+      <div class="container-lg">
+        <section id="hero" class="hotsite-hero hotsite-hero--minimal">
+          <h1>Modelo de Custos da Transformação Digital</h1>
+          <p class="hotsite-subtitle">
+            Mensuração automatizada, contínua e orientada por dados para a Administração
+            Pública.
+          </p>
+          <p class="hotsite-lead">
+            Uma metodologia desenvolvida pela Secretaria de Governo Digital (SGD) para
+            identificar e mensurar os impactos econômicos, sociais e ambientais da
+            digitalização de serviços públicos.
+          </p>
+        </section>
+
+        <section
+          id="historico"
+          class="hotsite-section"
+          aria-labelledby="titulo-historico"
+        >
+          <h2 id="titulo-historico">Breve Histórico</h2>
+          <p>
+            Modelos de custos consistem em estruturas analíticas e matemáticas destinadas 
+            à identificação e mensuração dos custos associados a normas, atividades e processos,
+            sendo amplamente utilizados em diversos países. Entre os principais referenciais internacionais,
+            destaca-se o <em>Standard Cost Model</em> (SCM), criado na
+            Holanda no início dos anos 2000 para medir o custo da burocracia imposta pela
+            regulação. A experiência foi bem-sucedida e o modelo passou a ser adotado pela
+            Comissão Europeia e recomendado pela OCDE como padrão de mensuração.
+          </p>
+          <p>
+            No Brasil, com o objetivo de mensurar a economia de custos decorrente da digitalização
+             de serviços públicos, a Secretaria de Governo Digital (SGD) desenvolveu, a partir de
+            2019, diversas iniciativas para mensurar a economia gerada pela digitalização de
+            serviços públicos:
+          </p>
+          <ol class="hotsite-timeline" aria-label="Linha do tempo das iniciativas da SGD">
+            <li class="hotsite-timeline-item">
+              <span class="hotsite-timeline-year">2019</span>
+              <p class="hotsite-timeline-content">Início das iniciativas</p>
+            </li>
+            <li class="hotsite-timeline-item">
+              <span class="hotsite-timeline-year">2020</span>
+              <p class="hotsite-timeline-content">
+                Calculadora de Interoperabilidade (CONECTAGOV)
+              </p>
+            </li>
+            <li class="hotsite-timeline-item">
+              <span class="hotsite-timeline-year">2022</span>
+              <p class="hotsite-timeline-content">
+                Guia Prático – Modelo de Custos de Serviços Públicos (SGD)
+              </p>
+            </li>
+            <li class="hotsite-timeline-item">
+              <span class="hotsite-timeline-year">2025</span>
+              <p class="hotsite-timeline-content">
+                Relatório Final da Proposta de Modelo de Custos de Serviços Públicos
+                (SGD/UFMG)
+              </p>
+            </li>
+            <li class="hotsite-timeline-item">
+              <span class="hotsite-timeline-year hotsite-timeline-year--current"
+                >Atual</span
+              >
+              <p class="hotsite-timeline-content">Referencial unificado - Modelo de Custos Aplicado à Digitalização</p>
+            </li>
+          </ol>
+          <p>
+            Como cada iniciativa abordou a temática sob perspectivas distintas somada a necessidade
+            de um estudo mais abragente e atualizado, o Modelo atual
+            consolida os elementos relevantes das iniciativas anteriores em uma metodologia única,
+            integrando com os dados estruturados do Portal Gov.br e possibilitando a replicabilidade 
+            por Estados e Municípios.
+          </p>
+        </section>
+
+        <section
+          id="integracao"
+          class="hotsite-section"
+          aria-labelledby="titulo-integracao"
+        >
+          <h2 id="titulo-integracao">Automação e Evolução Orgânica</h2>
+          <p>
+            O principal diferencial deste Modelo é a utilização do Portal Gov.br como
+            fonte primária e direta de dados. Diferente de abordagens anteriores que
+            dependiam de estimativas manuais enviadas por gestores, este sistema extrai e
+            processa dados estruturados na origem.
+          </p>
+          <div class="hotsite-grid hotsite-grid--3">
+            <div class="br-card">
+              <div class="card-content">
+                <div class="hotsite-card-icon" aria-hidden="true">
+                  <i class="fas fa-file-excel"></i>
+                </div>
+                <p class="hotsite-card-title">Sem formulários manuais</p>
+                <p>
+                  Extingue a necessidade de coleta de dados semiestruturados ou baseados
+                  na memória gerencial de órgãos públicos.
+                </p>
+              </div>
+            </div>
+            <div class="br-card">
+              <div class="card-content">
+                <div class="hotsite-card-icon" aria-hidden="true">
+                  <i class="fas fa-bullseye"></i>
+                </div>
+                <p class="hotsite-card-title">Precisão evolutiva</p>
+                <p>
+                  A acurácia das estimativas cresce proporcionalmente ao amadurecimento e
+                  à melhoria das descrições dos serviços no Portal Gov.br.
+                </p>
+              </div>
+            </div>
+            <div class="br-card">
+              <div class="card-content">
+                <div class="hotsite-card-icon" aria-hidden="true">
+                  <i class="fas fa-calendar-alt"></i>
+                </div>
+                <p class="hotsite-card-title">Atualização periódica</p>
+                <p>
+                  O modelo monitora de forma contínua o volume de solicitações, gerando um
+                  histórico dinâmico de economia para o Estado e para a sociedade.
+                </p>
+              </div>
+            </div>
+          </div>
+          <aside class="hotsite-callout" aria-label="Fontes de dados">
+            <i class="fas fa-database" aria-hidden="true"></i>
+            <p>
+              <strong>Fontes:</strong> os dados estruturados vêm da
+              <a href="https://www.gov.br/pt-br/servicos">página de serviços do Governo Federal</a>
+              e de dados complementares do próprio Portal Gov.br.
+            </p>
+          </aside>
+        </section>
+
+        <section
+          id="servico"
+          class="hotsite-section"
+          aria-labelledby="titulo-servico"
+        >
+          <h2 id="titulo-servico">O Serviço como Pilar Central</h2>
+          <p>
+            O Modelo estabelece o Serviço Público como unidade básica de importância e cálculo.
+            Por ser a unidade central de interação no Gov.br, focar no serviço garante
+            escalabilidade e permite que cada entrega à população seja mensurada de forma
+            individualizada. Para isso, o Modelo adota um conjunto padronizado de etapas
+            aplicáveis a qualquer serviço, composto por:
+          </p>
+          <div class="hotsite-grid hotsite-grid--2 hotsite-rol-branch">
+            <div class="br-card">
+              <div class="card-content">
+                <p class="hotsite-card-title">
+                  <span class="hotsite-step-badge" aria-hidden="true">1</span> Buscar
+                  Informações
+                </p>
+                <p>
+                  Atividade do usuário para compreender os requisitos do serviço. No
+                  cenário digital, elimina o atendimento presencial e o deslocamento
+                  físico, sendo contabilizada apenas uma vez por serviço.
+                </p>
+              </div>
+            </div>
+            <div class="br-card">
+              <div class="card-content">
+                <p class="hotsite-card-title">
+                  <span class="hotsite-step-badge" aria-hidden="true">2</span> Coletar
+                  Documentos
+                </p>
+                <p>
+                  Reunião de insumos necessários pelo usuário. O modelo adota a premissa
+                  prudente de que o cidadão já possui os documentos, medindo
+                  exclusivamente o tempo de localização interna.
+                </p>
+              </div>
+            </div>
+            <div class="br-card">
+              <div class="card-content">
+                <p class="hotsite-card-title">
+                  <span class="hotsite-step-badge" aria-hidden="true">3</span> Solicitar
+                  Serviço
+                </p>
+                <p>
+                  Entrega de dados e preenchimento de formulários. O tempo varia conforme
+                  a quantidade de documentos exigidos e a presença de validações
+                  automatizadas via integração de dados.
+                </p>
+              </div>
+            </div>
+            <div class="br-card">
+              <div class="card-content">
+                <p class="hotsite-card-title">
+                  <span class="hotsite-step-badge" aria-hidden="true">4</span> Receber
+                  Serviço
+                </p>
+                <p>
+                  Obtenção do resultado final de forma online, extinguindo a necessidade
+                  de interações físicas e entregas em suporte de papel.
+                </p>
+              </div>
+            </div>
+          </div>
+          <aside class="hotsite-callout" aria-label="Nota complementar">
+            <i class="fas fa-info-circle" aria-hidden="true"></i>
+            <p>
+              <strong>Nota:</strong> cada serviço poderá conter uma ou mais ocorrências
+              dessas etapas ou mesmo não contemplar determinada etapa, conforme sua
+              natureza. Essa padronização garante flexibilidade e uniformidade
+              metodológica, permitindo que os tempos de execução variem conforme as
+              especificidades do serviço. As etapas são classificadas automaticamente nas
+              macroetapas <strong>Solicitar</strong> e <strong>Receber</strong>.
+            </p>
+          </aside>
+        </section>
+
+        <section
+          id="motor"
+          class="hotsite-section"
+          aria-labelledby="titulo-motor"
+        >
+          <h2 id="titulo-motor">Engenharia e Operacionalização do Modelo</h2>
+          <p>
+            O processamento percorre cinco estágios funcionais, da captura dos dados
+            brutos à consolidação visual dos indicadores.
+          </p>
+          <div
+            class="hotsite-stepper"
+            aria-label="Macrofluxo técnico em cinco etapas"
+          >
+            <div class="hotsite-step">
+              <div class="hotsite-step-num">1</div>
+              <p class="hotsite-step-title">Extração automatizada</p>
+              <p class="hotsite-step-desc">
+                Captura de dados brutos tabulares e estruturados em formato JSON a
+                partir do Portal Gov.br.
+              </p>
+            </div>
+            <div class="hotsite-step">
+              <div class="hotsite-step-num">2</div>
+              <p class="hotsite-step-title">Tratamento léxico</p>
+              <p class="hotsite-step-desc">
+                Limpeza de caracteres e normalização de textos inseridos nos serviços do Portal Gov.br.
+              </p>
+            </div>
+            <div class="hotsite-step">
+              <div class="hotsite-step-num">3</div>
+              <p class="hotsite-step-title">Classificação preditiva</p>
+              <p class="hotsite-step-desc">
+                Análise linguística feita por algoritmos (IA) que processam os verbos das
+                descrições dos Serviços do Portal Gov.br, categorizando as 
+                ações entre as macroetapas Solicitar e Receber.
+              </p>
+            </div>
+            <div class="hotsite-step">
+              <div class="hotsite-step-num">4</div>
+              <p class="hotsite-step-title">Mensuração multidimensional</p>
+              <p class="hotsite-step-desc">
+                Aplicação de fórmulas integrando tempo, quantidade de documentos e volume
+                de uso detectado via API de Avaliação da Qualidade dos Serviços do Portal Gov.br. Além  
+                de variáveis globais e atualizadas que complementam as estimativas</p>
+            </div>
+            <div class="hotsite-step">
+              <div class="hotsite-step-num">5</div>
+              <p class="hotsite-step-title">Painel estratégico</p>
+              <p class="hotsite-step-desc">
+                Consolidação de todas as métricas em painéis de BI. Garantindo a transparência ativa e acesso aos dados.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <section
+          id="indicadores"
+          class="hotsite-section"
+          aria-labelledby="titulo-indicadores"
+        >
+          <h2 id="titulo-indicadores">Mensuração Além dos Custos Financeiros</h2>
+          <p>
+            O modelo cruza dados específicos de serviços com variáveis globais do
+            ecossistema. Todo o cálculo baseia-se no princípio da prudência (estimativas
+            conservadoras), garantindo que os resultados econômicos apresentados sejam
+            sempre subestimados para evitar efeito de superavaliação.
+          </p>
+          <div class="hotsite-grid hotsite-grid--3">
+            <div class="br-card">
+              <div class="card-content">
+                <div class="hotsite-card-icon" aria-hidden="true">
+                  <i class="fas fa-coins"></i>
+                </div>
+                <p class="hotsite-card-title">Perspectiva econômica</p>
+                <p>
+                  Ganho de eficiência administrativa do Governo e redução de custos de
+                  deslocamento, transporte e oportunidade para a Sociedade.
+                </p>
+              </div>
+            </div>
+            <div class="br-card">
+              <div class="card-content">
+                <div class="hotsite-card-icon" aria-hidden="true">
+                  <i class="fas fa-users"></i>
+                </div>
+                <p class="hotsite-card-title">Impacto social</p>
+                <p>
+                  Mensuração do ganho de bem-estar social em horas livres devolvidas ao
+                  cidadão, redução da congestão urbana e diminuição da assimetria
+                  informacional.
+                </p>
+              </div>
+            </div>
+            <div class="br-card">
+              <div class="card-content">
+                <div class="hotsite-card-icon" aria-hidden="true">
+                  <i class="fas fa-leaf"></i>
+                </div>
+                <p class="hotsite-card-title">Impacto ambiental</p>
+                <p>
+                  Indicadores físicos que medem a mitigação do desmatamento (redução do
+                  uso de papel), diminuição de emissões de CO₂ na atmosfera e controle do
+                  consumo energético institucional.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section
+          id="transparencia"
+          class="hotsite-section"
+          aria-labelledby="titulo-transparencia"
+        >
+          <h2 id="titulo-transparencia">Tomada de Decisão Baseada em Evidências</h2>
+          <p>
+            Os resultados do modelo são disponibilizados em um painel interativo , permitindo
+            segmentações dinâmicas. Este
+            referencial técnico foi desenhado para ser totalmente replicável por entes
+            subnacionais (estados e municípios), estimulando a homogeneidade de critérios,
+            fortalecendo a Governança Digital em toda a Federação e promovendo a tomada de decisão
+            da Política Pública baseada em evidências.
+          </p>
+          <div class="hotsite-dashboard-preview" role="img" aria-label="Prévia do painel Power BI">
+            <i class="fas fa-chart-bar" aria-hidden="true"></i>
+            <span>Painel interativo Power BI</span>
+          </div>
+        </section>
+
+      </div>
+      </main>
+
+</div>

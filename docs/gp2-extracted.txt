@@ -1,0 +1,260 @@
+Modelo de Custos Aplicado à Digitalização: Referencial Técnico para a Administração Pública
+Introdução
+O presente documento tem por finalidade consolidar os principais elementos relacionados à metodologia de mensuração de custos aplicada à digitalização de serviços públicos. A iniciativa é conduzida pela Secretaria de Governo Digital (SGD) e representa o aprimoramento de estudos e ferramentas desenvolvidos no período de 2020 a 2025. O objetivo central consiste em sistematizar um modelo capaz de ser replicado em ampla gama de serviços públicos, garantindo padronização e eficiência.
+Adicionalmente, busca-se assegurar que os entes subnacionais disponham de condições para realizar avaliações próprias, fundamentadas nas informações e métodos aqui apresentados. Essa abordagem visa fortalecer a governança e a capacidade analítica em todos os níveis da Administração Pública.
+A transparência ativa deve orientar as ações governamentais, assegurando justificativas perante a sociedade e subsidiando decisões estratégicas de alocação de recursos, com vistas à otimização dos investimentos públicos. A demonstração dos benefícios decorrentes da digitalização constitui etapa essencial para sua ampliação na gestão pública, promovendo ganhos significativos para a sociedade.
+O que são Modelos de Custos
+Modelos de custos consistem em estruturas analíticas e matemáticas destinadas à identificação e mensuração dos custos associados a normas, atividades e processos. Esses custos podem ser classificados como diretos ou indiretos e incidem sobre diferentes agentes, incluindo o setor público, a sociedade e a iniciativa privada. A flexibilidade inerente a essa modelagem permite a incorporação de variáveis provenientes de diversas fontes, ampliando seu potencial de aplicação. Além da mensuração de custos, tais modelos possibilitam a análise de fenômenos complexos, como os impactos decorrentes da implementação de leis e regulamentos, bem como os efeitos de políticas públicas sobre agentes econômicos e sociais.
+Entre os principais referenciais internacionais, destaca-se o Standard Cost Model (SCM), desenvolvido na Holanda no início dos anos 2000. Este modelo surgiu como resultado direto da agenda de melhor regulação (better regulation) adotada pelo governo holandês para enfrentar o problema do chamado red tape (excesso de burocracia). Na década de 1990, empresas e entidades representativas afirmavam que a regulação gerava custos elevados, mas o governo não dispunha de um método padronizado que permitisse medir esses custos de forma objetiva e verificável ao longo do tempo. Diante disso, o Ministério das Finanças dos Países Baixos (Ministerie van Financiën) e o Ministério dos Assuntos Econômicos (Ministerie van Economische Zaken) iniciaram, por volta de 2002, o desenvolvimento de uma metodologia comum para quantificar os encargos administrativos impostos pela legislação.
+O objetivo inicial do modelo não era medir todos os efeitos econômicos da regulação, mas isolar e quantificar os chamados “custos administrativos”: os custos incorridos por empresas, cidadãos ou organizações exclusivamente para cumprir obrigações de informação impostas pelo Estado. Isso incluía atividades como preencher formulários fiscais, elaborar relatórios para órgãos reguladores, manter registros obrigatórios para inspeções, responder a questionários estatísticos e arquivar documentos exigidos por lei. A premissa central do SCM era que tais atividades não seriam realizadas na ausência da regulação e, portanto, constituíam um ônus mensurável atribuível diretamente às normas.
+O sucesso da experiência holandesa rapidamente atraiu atenção internacional. A Comissão Europeia, por meio da Direção-Geral para Empresas e Indústria (DG Enterprise) e, posteriormente, da agenda de Better Regulation, adotou o SCM como metodologia oficial para medir encargos administrativos nos Estados-membros. A OCDE (Organização para a Cooperação e Desenvolvimento Econômico) também passou a recomendar o modelo como padrão internacional de mensuração de custos administrativos, incorporando-o em relatórios sobre qualidade regulatória. Países como Reino Unido, Alemanha, Dinamarca, Suécia, República Tcheca e Áustria implementaram versões nacionais do SCM, frequentemente com adaptações institucionais, mas preservando sua estrutura básica.
+Histórico e Marcos Importantes da SGD
+Com o objetivo de mensurar a economia de custos decorrente da digitalização de serviços públicos, a Secretaria de Governo Digital (SGD) desenvolveu, a partir de 2019, diversas iniciativas, entre as quais se destacam:
+Guia Prático – Modelo de Custos de Serviços Públicos (SGD, 2022);
+Relatório Final da Proposta de Estudos sobre o Impacto Social, Econômico e Ambiental da Implantação de Soluções de Governo Digital (SGD/UFMG, 2025);
+Calculadora de Interoperabilidade (CONECTAGOV) (2020).
+Cada uma dessas iniciativas abordou a temática sob perspectivas distintas, apresentando pontos de convergência e potencial de integração. Entretanto, fatores como descontinuidade ou ausência de atualização justificaram a necessidade de um estudo mais abrangente e atual, capaz de consolidar os avanços obtidos e propor uma metodologia uniforme.
+Nesse contexto, optou-se por reunir, em um único documento, os elementos mais relevantes de cada estudo, com vistas à mensuração dos benefícios da digitalização e à demonstração dos ganhos de eficiência alcançados pelo governo nos últimos anos.
+Assim, este guia foi concebido com base nos seguintes princípios fundamentais:
+Facilidade de catalogação dos serviços abrangidos pela análise;
+Replicabilidade da metodologia por entes subnacionais;
+Estimativas conservadoras, garantindo credibilidade por meio da subestimação dos impactos econômicos calculados;
+Atualização contínua das variáveis e resultados ao longo do tempo.
+A adoção desses princípios visa assegurar a realização de análises periódicas, permitindo acompanhar a evolução das economias geradas pelas iniciativas de digitalização dos serviços públicos.
+Avaliação Comparativa dos Modelos
+Esta seção apresenta os principais pontos positivos e os aspectos que requerem atenção em cada estudo analisado. O objetivo é esclarecer quais elementos devem ser incorporados ou ajustados no modelo atual, garantindo maior robustez, confiabilidade e aplicabilidade. Os pontos de atenção são explicados individualmente para cada estudo, enquanto os aspectos positivos adotados serão tratados na seção seguinte.
+Guia Prático (SGD, 2022)
+Pontos positivos:
+Padronização das etapas metodológicas, conferindo maior uniformidade às análises;
+Amplo número de serviços catalogados, permitindo abrangência significativa;
+Inclusão da quantidade de documentos exigidos por serviço, fator relevante para estimativa de custos;
+Consideração da renda média dos usuários
+Estudo completo, incluindo percentual de atendimento digital
+Pontos de atenção:
+Falta de segmentação em variáveis específicas, como modalidades de transporte (público e privado) e tipos de acesso à internet (fixa e móvel);
+Dependência excessiva de informações obtidas por meio de formulários respondidos pelos gestores dos serviços.
+A falta de segmentação compromete a precisão das análises, pois não diferencia realidades distintas entre usuários. Já a coleta de dados por formulários, muitas vezes baseada em estimativas fornecidas pelos gestores, gera heterogeneidade nas informações, impactando a confiabilidade dos resultados. Como os gestores nem sempre dispõem dos dados solicitados, recorrem a estimativas (cada gestor estima de uma forma), o que aumenta a variabilidade e reduz a consistência do modelo.
+Relatório Final (SGD/UFMG, 2025)
+Pontos positivos:
+Estrutura metodológica robusta, com fundamentação teórica consistente;
+Utilização de georreferenciamento, permitindo análises espaciais detalhadas;
+Atualização periódica das variáveis, garantindo maior aderência à realidade;
+Categorização por renda e tipos de usuários, ampliando a capacidade de análise distributiva;
+Aplicação de doses de tratamento, recurso metodológico que fortalece a avaliação comparativa.
+Pontos de atenção:
+Formato predominantemente “cookbook”, com baixa escalabilidade;
+Alta individualização dos serviços analisados, dificultando replicação em larga escala.
+Embora apresente uma sequência clara de etapas para mensuração, o estudo foi aplicado a uma amostra restrita (apenas quatro serviços), o que limita sua abrangência. A elevada individualização das características dos serviços implica em custos adicionais de tempo e recursos para replicação em larga escala. O georreferenciamento, apesar de ser uma vantagem metodológica, apresenta baixa viabilidade para aplicação em grande número de serviços, devido à complexidade e à necessidade de capital humano especializado. Para replicar essa abordagem em todas as unidades da federação, seria necessário georreferenciar uma grande quantidade de locais, o que demandaria tempo, conhecimento técnico e recursos financeiros, elevando significativamente os custos de implementação.
+Ponto de Partida
+Com base na análise dos estudos anteriores, foi possível estabelecer um direcionamento para a nova metodologia de mensuração. Considerando os aspectos positivos identificados, o modelo atual incorpora os seguintes elementos:
+Padronização das etapas;
+Quantidade de documentos por serviço;
+Variáveis atualizáveis;
+Consideração da renda dos usuários e dos prestadores de serviços.
+A padronização das etapas consiste na definição de um rol pré-estabelecido de etapas possíveis para execução de um serviço. Cada serviço catalogado deverá conter apenas etapas previstas nesse rol, podendo repetir uma mesma etapa ou não a realizar. Cada etapa será associada a um tempo de execução, que poderá variar entre os serviços. Essa padronização assegura uniformidade metodológica e facilita a replicação do modelo.
+A quantidade de documentos por serviço permitirá análises mais detalhadas, conferindo maior individualização a determinadas etapas, como “coletar documentos” e “solicitar serviço”, que serão detalhadas posteriormente. Essas etapas possuem tempos de execução distintos no cenário pré e pós-digitalização, vinculados à referida variável. Para estimar esses tempos, será utilizada a base de dados da Calculadora de Interoperabilidade (CONECTAGOV, 2020). Além disso, essa variável contribui para mensurar a economia decorrente da redução do uso de documentos físicos, impactando diretamente os custos de armazenamento após a digitalização.
+O modelo contempla um conjunto de variáveis diversas, explicitadas no ANEXO I, juntamente com seus valores e fontes. Essas variáveis são atualizadas periodicamente, garantindo maior aderência à realidade e permitindo a construção de séries históricas para análise da evolução dos impactos ao longo do tempo. Para assegurar a confiabilidade das estimativas, é fundamental que os dados sejam obtidos com o mínimo de intermediários possível.
+Por fim, a renda dos usuários e dos prestadores de serviços, também considerada como variável atualizável, constitui elemento essencial para converter os impactos econômicos, sociais e ambientais em valores monetários. A obtenção dessas informações em fontes confiáveis e atualizadas é indispensável para a validade e credibilidade do estudo.
+Passos para a Construção do Modelo
+Definidos os elementos essenciais que compõem a estrutura do novo modelo, esta seção apresenta a sequência de etapas necessárias para sua implementação. Esses passos configuram uma trilha metodológica que se inicia com a concepção do modelo e culmina na aplicação aos serviços e no cálculo das economias de custos.
+Análise dos Serviços Existentes
+O primeiro passo consiste na análise de uma amostra de serviços que disponham de informações detalhadas. A consulta à página de serviços do Governo Federal permite acesso a dados sobre serviços de diversos órgãos, incluindo etapas, formas de prestação e documentos exigidos. A partir dessas informações, é possível identificar diferenças e convergências entre os serviços, fornecendo insumos para a padronização metodológica.
+Criação e Catalogação das Etapas dos Serviços
+Com base na análise inicial, define-se o rol de etapas que integrará o modelo. Esse rol deve ser suficientemente abrangente para contemplar serviços de diferentes órgãos, mantendo, contudo, elementos que permitam caracterização individualizada. A catalogação deve ser operacionalmente simples, evitando que se torne um entrave à execução do estudo.
+Estimativa de Tempo por Etapa
+Após a definição das etapas, procede-se à estimativa dos tempos médios de execução para cada etapa dos serviços analisados. Esses tempos podem variar entre os serviços. Caso não seja possível catalogar todos os serviços do ente, poderá ser necessária a extrapolação dos tempos médios calculados para os serviços já catalogados, garantindo estimativas para o conjunto total. À medida que novos serviços forem incorporados com dados próprios, a necessidade de extrapolação será reduzida.
+Cálculo da Economia de Custos por Serviço
+Com o serviço devidamente catalogado, estarão disponíveis as informações necessárias para calcular a economia gerada pela digitalização, tanto para o governo quanto para a sociedade. O cálculo será realizado por meio das fórmulas previstas no modelo. A soma das economias individuais permitirá estimar a economia total do ente.
+Expansão para Novos Serviços
+A inclusão de novos serviços dependerá da disponibilidade das informações, o que pode variar conforme fatores como acesso aos gestores, existência de bases de dados governamentais e disponibilidade de recursos humanos para coleta e catalogação. Independentemente dessas variáveis, a estrutura e a modelagem estarão preparadas para incorporar novos dados, assegurando a continuidade e a expansão do estudo.
+Boas Práticas Adotadas
+As diretrizes estabelecidas nesta seção têm como objetivo assegurar a credibilidade do modelo e a confiabilidade das mensurações realizadas. A primeira prática fundamental refere-se à qualidade das variáveis e das fontes de dados. É imprescindível que as informações utilizadas sejam provenientes de fontes oficiais e reconhecidas, como Instituto Brasileiro de Geografia e Estatística (IBGE), Instituto de Pesquisa Econômica Aplicada (Ipea) e portais governamentais. Além disso, sites especializados em determinados temas, como o portal da Petrobras para dados sobre preços de combustíveis, também constituem referências válidas.
+Outra diretriz relevante é a simplificação das variáveis. Embora possa parecer que variáveis mais complexas conferem maior precisão, a adoção de variáveis simples contribui para a execução efetiva do estudo, sem comprometer sua qualidade. Variáveis de fácil compreensão facilitam a coleta de dados, possibilitam maior automação e tornam o estudo mais acessível para replicação por outros entes. Essa abordagem reforça a transparência e a disseminação da metodologia.
+O modelo adota o princípio da prudência, priorizando estimativas conservadoras. Essa prática garante que os resultados sejam subestimados, evitando supervalorização das economias obtidas pelo governo e pela sociedade. A superestimação poderia induzir decisões equivocadas na alocação de recursos públicos, comprometendo a eficiência do gasto e a confiança da sociedade. Da mesma forma, o setor privado poderia ser impactado negativamente, caso perceba um cenário distorcido de risco em relação às ações governamentais.
+Portanto, a combinação de fontes confiáveis, simplificação metodológica e estimativas prudentes constitui a base para a credibilidade do modelo, assegurando que os resultados apresentados sejam consistentes, replicáveis e alinhados às melhores práticas de gestão pública.
+Principais Variáveis Consideradas
+Para a execução dos cálculos previstos pelo modelo, é necessário considerar um conjunto de variáveis, classificadas em dois grupos:
+Grupo 1: variáveis que variam conforme o serviço analisado;
+Grupo 2: variáveis aplicáveis a todos os serviços, sem variações significativas.
+Grupo 1
+Volume de solicitações;
+Quantidade de documentos requeridos;
+Tempo por etapa.
+Grupo 2
+Tempo/distância de deslocamento e atendimento;
+Preços (combustível, energia elétrica, dispositivos eletrônicos, aluguel).
+Considerações sobre as Variáveis
+O volume de solicitações refere-se à quantidade de serviços concluídos em determinado período por meios digitais. Neste estudo, utilizou-se como proxy a quantidade de avaliações geradas no serviço, considerando que a existência da avaliação indica a conclusão do atendimento digital. Esses dados são obtidos através de uma planilha da CGAUX, que monitora as avaliações de cada um dos serviços da página.
+A renda média do usuário pode variar conforme o tipo de serviço. Por exemplo, serviços como “obter passaporte” tendem a ter usuários com renda superior àqueles que solicitam “aposentadoria rural”. Quando essa informação específica não estiver disponível, recomenda-se utilizar a renda média da população e do servidor público, conforme dados do IBGE (https://sidra.ibge.gov.br/home/pnadcm/brasil), que são organizados e atualizados periodicamente. Essa abordagem foi adotada no presente estudo por dois motivos: i) facilidade de obtenção dos dados; ii) eliminação da necessidade de estimativas.
+Quanto aos tempos por etapa, foram utilizadas diferentes fontes para definição dos valores. Inicialmente, consideraram-se os tempos médios por etapa do Guia Prático (2022). Para etapas como “coletar documentos” e “solicitar serviço”, os tempos foram ajustados conforme a quantidade de documentos exigidos, utilizando parâmetros da Calculadora de Interoperabilidade (CONECTAGOV, 2020). O tempo de deslocamento corresponde ao período necessário para que o usuário se desloque até o local de atendimento presencial e retorne.
+A variável quantidade de documentos depende diretamente das exigências do órgão prestador do serviço. Quanto maior essa quantidade, maior será o tempo necessário para cumprir etapas como “coletar documentos” e “solicitar serviço”.
+Diversos preços são utilizados nas estimativas de economia, incluindo valores de combustíveis, tarifas de transporte público, custo do metro quadrado para aluguel, entre outros. Esses dados devem ser obtidos preferencialmente em fontes oficiais ou reconhecidas, com atualização constante, como portais governamentais e sites especializados.
+Uso de Inteligência Artificial na Coleta de Variáveis
+No presente estudo, por uma decisão de projeto, em caráter transitório, em virtude do curto tempo disponível e da ausência de especialistas nas diversas áreas de conhecimento que estão relacionadas as variáveis globais do modelo, optou-se quea busca pelo preenchimento dessas variáveis fosse realizada com apoio de ferramentas de Inteligência Artificial (IA), garantindo maior abrangência, agilidade e automação. Utilizou-se um LLM (Large Language Model) multiagente para conduzir uma deep research na internet.
+Um LLM é um modelo de linguagem de larga escala, treinado com grandes volumes de dados textuais, capaz de compreender padrões linguísticos e gerar respostas contextualizadas. A deep research consiste em uma abordagem avançada, na qual a IA executa tarefas complexas, como busca em múltiplas fontes, comparação de versões, verificação de consistência, organização de evidências e síntese estruturada com referências.
+O conceito de LLM multiagente refere-se à utilização de múltiplos agentes especializados, cada um com funções específicas (pesquisador, analista, crítico, redator), trabalhando de forma colaborativa para resolver problemas com maior robustez. Essa arquitetura proporciona vantagens como:
+Redução de erros e alucinações, por meio da revisão cruzada entre agentes;
+Maior confiabilidade e consistência das informações;
+Melhor gerenciamento de projetos complexos, com divisão de tarefas especializadas.
+Essa estratégia permitiu a obtenção de dados mais precisos e confiáveis, fortalecendo a base metodológica do estudo, o que não afasta a possibilidade de que tais resultados sejam objeto de nova revisão e novo estudo aprofundado (com ou sem o uso de Inteligência Artificial), visando atualização ou novas proposições.
+Transparência dos Resultados
+Com a aplicação do modelo aos serviços catalogados, o governo passa a dispor de estimativas sobre as economias geradas pela digitalização. Contudo, é fundamental que esses resultados sejam disponibilizados de forma clara e acessível, tanto para gestores públicos quanto para a sociedade, possibilitando análises consistentes e tomadas de decisão assertivas.
+Para atender a esse objetivo, foi desenvolvido um painel interativo utilizando a ferramenta Power BI, que permite a navegação pelos dados e a extração de informações relevantes. O painel organiza as informações em duas perspectivas principais: sociedade e governo, oferecendo filtros por variáveis como ano, órgão e serviço. Além disso, apresenta indicadores gerais sobre a digitalização dos serviços públicos, contemplando dimensões ambientais, sociais e econômicas.
+Com o tempo, novos indicadores serão incorporados ao painel, ampliando a análise para além dos impactos monetários. A intenção é incluir métricas que reflitam ganhos de bem-estar social, eficiência governamental e qualidade ambiental, assegurando uma visão abrangente dos benefícios da transformação digital.
+Configuração Técnica
+Após as considerações metodológicas apresentadas, esta seção detalha a configuração técnica do modelo, incluindo definição das etapas, estrutura de dados, fórmulas e fontes utilizadas.
+10.1 Rol de Etapas do Serviço
+O modelo adota um conjunto padronizado de etapas aplicáveis a qualquer serviço, composto por:
+Buscar informações;
+Coletar documentos;
+Solicitar serviço;
+Receber serviço.
+Cada serviço poderá conter uma ou mais ocorrências dessas etapas, ou mesmo não contemplar determinada etapa, conforme sua natureza. Essa padronização garante flexibilidade e uniformidade metodológica, permitindo que os tempos de execução variem conforme as especificidades do serviço.
+Descrição das Etapas
+Buscar informações: refere-se à atividade do usuário para obter informações sobre requisitos, documentos, locais de atendimento e formas de prestação do serviço. Considera-se que, no cenário pré-digitalização, essa etapa demanda deslocamento físico, enquanto no pós-digitalização ocorre de forma online, eliminando a necessidade de atendimento presencial. Essa etapa é contabilizada apenas uma vez por serviço.
+Coletar documentos: consiste na reunião dos documentos necessários para solicitação do serviço. Para fins de estimativa conservadora, assume-se que os usuários já possuem os documentos exigidos, eliminando deslocamentos adicionais. Assim, o tempo refere-se apenas à busca dos documentos em posse do usuário. Para o governo, essa etapa não gera custos após a digitalização.
+Solicitar serviço: abrange as atividades realizadas pelo usuário e pelo governo para efetivar a solicitação. O tempo varia conforme a quantidade de documentos exigidos. No cenário pré-digitalização, inclui deslocamento e atendimento presencial; no pós-digitalização, restringe-se à conferência dos dados, podendo ocorrer validação automática via API.
+Receber serviço: corresponde à obtenção do serviço, seja por meio de execução, entrega de documento ou disponibilização de informação. No pré-digitalização, envolve deslocamento e atendimento presencial; no pós-digitalização, ocorre por meio de acesso online, eliminando deslocamentos.
+Essas etapas foram adaptadas do Guia Prático (2022), com ajustes nos cálculos de tempo. As fórmulas de economia e custo são baseadas em adaptações do Guia Prático (2022) e do Produto 1.8 (UFMG, 2025).
+Estrutura da Matriz de Serviços
+A configuração técnica prevê a construção de uma matriz de serviços, na qual:
+Linhas representam os serviços analisados;
+Colunas contêm características do serviço, incluindo:
+Etapas presentes (com possibilidade de múltiplas ocorrências);
+Quantidade de documentos e formulários exigidos;
+Volume de solicitações digitais;
+Tempos de execução por etapa (pré e pós-digitalização);
+Indicadores de digitalização por etapa.
+Essa matriz alimenta as fórmulas do modelo, permitindo calcular economias por serviço e consolidar os resultados em duas dimensões: sociedade e governo.
+Fórmulas e Tipos de Economia
+As fórmulas serão apresentadas em dois grupos:
+Sociedade: custos incorridos por cidadãos e empresas;
+Governo: custos incorridos pela Administração Pública.
+Cada fórmula será associada ao tipo de economia gerada pela digitalização, detalhando os componentes considerados (tempo, deslocamento, recursos físicos, entre outros).
+Custos de deslocamento
+(1)
+é o custo de oportunidade do deslocamento para o usuário, em reais; é a quantidade de etapas que exigem deslocamento antes da digitalização;  é o tempo de deslocamento para se realizar uma etapa de maneira presencial, em horas; e  é a quantidade de usuários que realizaram o serviço de maneira digital.
+Custos de atendimento
+(2)
+(3)
+é o custo de oportunidade do atendimento no serviço, em reais;  é o ganho de eficiência, do governo, em reais;  é o tempo necessário para completar uma etapa do tipo antes da digitalização (descontado o tempo de deslocamento), em horas; é o tempo necessário para completar uma etapa do tipo após a digitalização (descontado o tempo de deslocamento), em horas; é o número de etapas em que há atendimento (ou seja, em que tanto o governo quanto a sociedade devem realizar atividades pré-digitalização); é a renda média da sociedade, em reais; e é a renda média dos prestadores do serviço (no caso, os agentes do governo), em Reais.
+Custos de transporte
+(4)
+(5)
+é o gasto da sociedade com gasolina antes da digitalização, em reais; é o gasto da sociedade com passagem de transporte público antes da digitalização, em reais; é a distância média percorrida para realizar alguma etapa do serviço de maneira presencial, em quilômetros; é a eficiência energética média dos veículos, em quilômetros por litro;  é o preço da gasolina, em reais por litro;  é o preço da passagem (ida e volta), em reais;  é a proporção da população que utiliza veículo particular; e  é a proporção da população que utiliza transporte público
+Custos com aluguel
+(6)
+(7)
+é o gasto do governo com armazenamento de documentos e formulários em forma física, em reais; é o gasto do governo com aluguel de espaço físico para seus agentes, em reais; é a quantidade de documentos e formulários necessários para que o serviço seja concluído;  é o fator de conversão de documentos e formulários em quantidade de folhas de papel; o termo  surge, pois, considera-se que os documentos e formulários são armazenados em caixas com capacidade para 500 folhas, que por sua vez são armazenadas em estantes com capacidade para 24 caixas (Guia Prático, 2022); é o preço do aluguel de um metro quadrado, em reais; e  é a quantidade  de metros quadrados necessários em um escritório por trabalhador (considera todas as instalações, como salas de reunião e banheiro).
+Custos com energia
+(8)
+(9)
+é o gasto com energia elétrica do governo após a digitalização, em reais; é o gasto com energia elétrica da sociedade (usuários) após a digitalização, em reais;  é o custo médio do kWh, em reais por kWh;  é a potência média de um computador, em kW; e  é a potência média de um celular, em kW.
+Custos com internet
+(10)
+(11)
+é o gasto da sociedade com internet após a digitalização, em reais; é o gasto do governo com internet após a digitalização, em reais; é o custo médio da internet fixa, em reais por hora; e é o custo médio da internet móvel, em reais por hora.
+Custos com aparelhos
+(12)
+(13)
+É o gasto da sociedade com aparelhos eletrônicos após a digitalização, em reais; é o gasto do governo com aparelhos eletrônicos após a digitalização, em reais;  é o custo médio de um celular, em reais;  é o custo médio de um computador, em reais; é a vida útil do celular, em horas; e é a vida útil de um computador, em horas.
+Vamos agora agrupar as fórmulas de acordo com os grupos “sociedade” e “governo”:
+Sociedade
+Governo
+A seguir, vamos analisar as fórmulas referentes aos impactos sociais, ambientais e econômicos gerados pela digitalização dos serviços. Entende-se por impacto social, nesse estudo, vantagens ou desvantagens incorridas pela sociedade, evidenciados por meio de indicadores. Esses indicadores procuram oferecer medidas não somente em termos monetários, mas em outras unidades que reflitam aspectos variados. A seguir, apresentam-se os indicadores sociais.
+Bem-estar social
+Considera-se bem-estar social o somatório das horas “livres” que os usuários passam a ter pela digitalização dos serviços. Como os serviços no pós-digitalização consomem menos tempo para serem concluídos, os usuários podem utilizar as horas economizadas em outras atividades que considerarem mais úteis, gerando um aumento de bem-estar. A fórmula para o cálculo desse indicador é:
+onde  é o bem-estar social, em horas.
+Congestão urbana
+A digitalização reduz (ou elimina) a necessidade de deslocamento, por parte do usuário, para ter acesso ao serviço. Dessa forma, muitos daqueles que se deslocariam utilizando transporte particular deixam de o fazer. Assim, a quantidade de veículos circulando diminui, contribuindo para a redução da congestão urbana. Esse indicador se mostra especialmente importante para grandes cidades, onde a quantidade de veículos é maior, bem como a intensidade do tráfego. A seguir, a fórmula para o cálculo do indicador.
+onde é a congestão que deixou de ser gerada após a digitalização dos serviços.
+Assimetria informacional
+Esse indicador busca medir a qualidade das informações fornecidas ao usuário sobre o serviço. Calcula-se por meio da razão entre a quantidade de avaliações positivas e o total de avaliações. Dessa forma, quanto mais próximo de 1, menor a assimetria informacional. Esse indicador pode apresentar valores que variam entre 0 e 1.
+é a assimetria informacional relativa aos serviços públicos digitais;  é a quantidade (ou proporção de avaliações positivas); e  é a quantidade (ou proporção) de avaliações totais.
+Por último, vamos realizar a análise dos indicadores ambientais. Esses indicadores buscam mapear alguns dos impactos ao meio ambiente decorrentes da digitalização.
+Desmatamento
+Com a digitalização, o consumo de papel em processos relativos aos serviços diminuiu. Sendo assim, algumas árvores deixaram de ser cortadas para a produção dessas folhas de papel. Cada árvore é capaz de produzir uma determinada quantidade de folhas. A seguir, a fórmula do indicador:
+onde  representa a quantidade de árvores que deixaram de ser desmatadas; e  é a quantidade de folhas produzidas por uma árvore.
+Emissão de CO2
+Com e redução da necessidade de deslocamentos e consequente diminuição da utilização de veículos particulares para demandar os serviços públicos, no pós-digitalização, a quantidade de gás carbônico lançado na atmosfera é reduzida. Portanto, a digitalização dos serviços públicos contribui para a melhora da qualidade do ar. A quantidade de gás carbônico que deixou de ser lançada na atmosfera é dada pela seguinte fórmula:
+Onde  é a quantidade de gás carbônico que deixou de ser lançada na atmosfera; e  é a quantidade média de gás carbônico emitida por um veículo de passeio.
+Consumo energético
+No pós-digitalização, há um aumento do consumo de energia elétrica na prestação dos serviços. Esse aumento se deve à crescente quantidade de horas que os equipamentos, como computador, são utilizados para se concluir um serviço. Esse indicador é calculado da seguinte forma:
+Onde  representa o aumento no consumo de energia elétrica, em kWh; e  é o consumo médio de energia elétrica de um aparelho eletrônico, em kW.
+Estimativas do Modelo
+Todo modelo matemático que busca explicar fenômenos reais enfrenta desafios metodológicos e limitações inerentes. Quando tais desafios não podem ser completamente superados, é necessário adotar medidas que assegurem a validade dos resultados, mesmo diante dessas fragilidades. O presente estudo incorporou diversas estratégias para garantir estimativas conservadoras e confiáveis.
+Medidas de Prudência Adotadas
+Exclusão de custos com impressão pré-digitalização: Não foram contabilizados os gastos dos usuários com impressões de documentos e certidões antes da digitalização. Como a digitalização elimina a maior parte da necessidade de impressão, essa exclusão subestima os resultados, reforçando o caráter conservador do modelo.
+Suposição de posse prévia dos documentos: Considerou-se que os usuários já possuem todos os documentos necessários para solicitar o serviço, eliminando deslocamentos adicionais para obtê-los. Na prática, poderiam ocorrer múltiplos deslocamentos, o que aumentaria a economia real.
+Exclusão de custos do governo com insumos físicos: Gastos com papel, tinta e impressoras, bem como custos com energia elétrica, equipamentos e internet no cenário pré-digitalização, não foram considerados. Esses custos só foram contabilizados no pós-digitalização, subestimando os resultados.
+Quantidade de documentos pós-digitalização: Considerou-se igual à do cenário pré-digitalização, embora seja sabido que muitos serviços passaram a exigir menos documentos após a digitalização. Essa simplificação reduz as economias calculadas.
+Ajustes em Valores de Variáveis
+O tempo da etapa “buscar informações” no cenário pré-digitalização foi fixado em 0,5 horas, conforme dados do Guia Prático (2022). Essa estimativa pressupõe que o usuário precisaria deslocar-se apenas uma vez para obter informações, embora, na prática, possam ocorrer múltiplos deslocamentos, o que aumentaria a economia real.
+Essas medidas refletem o compromisso com o princípio da prudência, garantindo que os resultados do modelo sejam conservadores e sustentáveis, evitando superestimações que poderiam comprometer a credibilidade do estudo e a tomada de decisão baseada em evidências.
+Operacionalização do Modelo
+Esta seção apresenta, de forma sistemática, os métodos e as ferramentas empregados para a operacionalização do modelo de custos, abrangendo a extração das variáveis, o cálculo das fórmulas e a apresentação dos resultados. As variáveis necessárias ao modelo distribuem-se em duas categorias: (i) variáveis específicas dos serviços; e (ii) variáveis utilizadas nas fórmulas, aplicáveis transversalmente a todos os serviços. Em razão das distintas origens das informações, a extração de cada categoria utiliza procedimentos diferenciados.
+No que se refere às variáveis específicas dos serviços, a extração é realizada por meio de código desenvolvido na linguagem Python, com acesso ao Estaleiro do Serpro (Serviço Federal de Processamento de Dados), ambiente destinado a padronizar, acelerar e organizar a construção de sistemas utilizados pelo Governo Federal. Os dados são obtidos em arquivo no formato JSON (https://api-servicos.estaleiro.serpro.gov.br/servicos-json), formato textual que armazena dados estruturados de maneira simples e padronizada. A partir desse arquivo, procede-se à transformação dos dados para o formato tabular, em data frames, habilitando as etapas subsequentes de tratamento e análise. Registre-se que as informações obtidas sobre os serviços correspondem àquelas disponibilizadas na página oficial de serviços do Governo Federal (https://www.gov.br/pt-br/servicos).
+No tocante à segunda categoria de variáveis — ressalvadas aquelas provenientes de estudos anteriores desta Secretaria — adotou-se metodologia de deep research suportada por large language model (LLM) em configuração multiagente com supervisão humana. Nessa abordagem, uma inteligência artificial orquestra outras inteligências artificiais, atribuindo-lhes funções específicas para a pesquisa das variáveis. Foram utilizados:
+Gemini Pro 3, como IA orquestradora;
+Kimi K2, para análise de contextos extensos, artigos acadêmicos, relatórios em PDF e recuperação de dados históricos;
+Grok4, para pesquisa em tempo real na web, identificação de tendências de mercado e cruzamento célere de dados estatísticos.
+O resultado desse processo é um relatório contendo tabela em que cada linha representa uma variável e cada coluna descreve informações essenciais, tais como nome, valor, unidade de medida, fonte e breve explicação. O resultado obtido é então revisado e complementado por um humano.O script correspondente encontra-se apresentado no ANEXO II.
+O código construído em Python para operacionalizar o modelo de custos estrutura-se em cinco macro etapas:
+Extração dos dados;
+Tratamento dos dados;
+Construção, treinamento e aplicação de modelo preditivo;
+Mensuração das economias;
+Visualização dos resultados (Power BI).
+A primeira macro etapa foi detalhada nos parágrafos precedentes; as demais etapas são descritas a seguir.
+Tratamento dos Dados
+Com os dados já convertidos para formato tabular, inicia-se a etapa de tratamento. A tabela contém diversas colunas com textos que podem apresentar inconsistências, uma vez que são redigidos por servidores dos respectivos órgãos. Mesmo quando não há erros evidentes, é recomendável aplicar procedimentos de normalização, tais como:
+Exclusão de blocos de texto irrelevantes;
+Remoção de números e caracteres especiais;
+Conversão de todas as letras para caixa baixa (minúsculas).
+Essas medidas reduzem a probabilidade de erros ou imprecisões nos modelos de linguagem natural utilizados posteriormente.
+Concluída essa primeira rodada de ajustes, procede-se à análise linguística detalhada dos dados. Para isso, emprega-se a biblioteca spaCy, nativa da linguagem Python, utilizando especificamente o modelo pt_core_news_lg. Esse modelo permite a classificação morfológica e sintática de cada palavra presente nos textos das colunas, incluindo pontuação e símbolos. O foco inicial recai sobre os verbos, pois cada etapa dos serviços descreve ações a serem executadas pelo usuário ou pelo governo, e os verbos representam essas ações de forma precisa. Assim, realiza-se um filtro para que apenas os verbos permaneçam na tabela.
+Contudo, nem todas as etapas possuem verbos em seus títulos ou descrições. Nesses casos, utiliza-se a palavra mais representativa da etapa, geralmente um substantivo. Por exemplo, uma etapa pode conter o verbo “inscrever-se” no título, enquanto outra apresenta “inscrição”. Ambas são representativas, embora a segunda não seja verbo. A estrutura da tabela inclui, entre outras colunas, uma para o verbo (ou substantivo) do título da etapa e outra para os verbos (ou substantivos) da descrição. Para o título, optou-se por utilizar apenas o primeiro verbo identificado. Dessa forma, cada etapa de um serviço pode gerar uma ou mais linhas na tabela, resultantes das combinações possíveis entre o verbo do título e os verbos da descrição.
+Após a extração dos verbos, inicia-se a geração dos embeddings, que são vetores numéricos capazes de representar matematicamente as palavras. No presente caso, cada palavra é convertida em um vetor com trezentas dimensões. Para essa tarefa, utiliza-se novamente a biblioteca spaCy e o pacote pt_core_news_lg, treinado em milhões de textos. Esse pacote gera embeddings que posicionam cada palavra em um espaço vetorial, onde a proximidade indica similaridade semântica e a distância indica menor relação sintática. Assim, palavras semanticamente semelhantes estarão próximas nesse espaço, enquanto as menos relacionadas estarão mais distantes.
+Construção, Treinamento e Aplicação de Modelo Preditivo
+O passo seguinte consiste na extração de uma amostra de serviços para a construção de um dicionário de referência. Com a amostra selecionada, realiza-se a leitura das etapas e procede-se à classificação de cada uma delas como “solicitar” ou “receber”. Cabe esclarecer que, embora o modelo contemple quatro etapas possíveis, considera-se que todos os serviços possuem uma etapa do tipo “buscar informações” e outra do tipo “coletar documentos”, caso haja documentos solicitados. Assim, apenas as quantidades de etapas dos tipos “solicitar” e “receber” são variáveis, sendo essas as informações obtidas na página de serviços.
+Após a construção do dicionário, inicia-se a elaboração do modelo preditivo. Na prática, são utilizados dois modelos distintos:
+Modelo principal: aplicado aos verbos do título da etapa;
+Modelo secundário: aplicado aos verbos da descrição da etapa.
+Antes da aplicação dos modelos, é necessário realizar um ajuste nos dados devido ao desbalanceamento da amostra, caracterizado pela predominância de etapas do tipo “solicitar” em relação às do tipo “receber”. Para corrigir essa distorção, são adotadas duas técnicas:
+Oversampling: duplicação das linhas correspondentes à classe minoritária (“receber”);
+SMOTE (Synthetic Minority Over-Sampling Technique): criação de dados sintéticos, gerados a partir da interpolação entre pontos existentes, garantindo maior equilíbrio na amostra.
+Concluído o balanceamento, procede-se à divisão do dicionário em duas subamostras:
+Treino: utilizada para o aprendizado do modelo;
+Teste: destinada à validação dos resultados preditivos.
+O modelo estabelece uma relação entre os embeddings dos verbos e a classificação manual das etapas realizada durante a construção do dicionário, caracterizando um modelo supervisionado de classificação. Esse processo é aplicado tanto ao modelo principal quanto ao secundário.
+Para a implementação, optou-se pelo algoritmo XGBoost (eXtreme Gradient Boosting), que constrói múltiplas árvores de decisão em sequência, cada uma corrigindo os erros da anterior. A documentação do modelo se encontra em: https://xgboost.readthedocs.io/en/stable/. A escolha do XGBoost justifica-se por suas características:
+Alta precisão preditiva;
+Eficiência em dados tabulares;
+Capacidade de lidar com valores ausentes;
+Redução do risco de overfitting;
+Escalabilidade.
+Após o treinamento, os modelos são aplicados ao conjunto total de serviços, classificando cada linha da tabela como “solicitar” ou “receber”. A tabela passa a conter duas novas colunas, correspondentes às previsões de cada modelo. Dois cenários podem ocorrer:
+Convergência: quando as previsões do modelo principal e do secundário são iguais, a classificação é mantida conforme o modelo principal;
+Divergência: quando as previsões diferem, aplica-se a seguinte regra:
+Se a etapa apresenta maior número de linhas convergentes, assume-se a classificação do modelo principal;
+Se a etapa apresenta mais linhas divergentes do que convergentes, e não possui documentos associados, a etapa é descartada.
+Mensuração das Economias
+Após a análise dos casos divergentes e a filtragem dos dados para manter apenas as etapas que podem ser realizadas de forma digital — além de manipulações adicionais para inclusão de colunas na tabela — inicia-se a aplicação das fórmulas do modelo de custos sobre os dados consolidados. Nesta fase, são calculados:
+Custos e economias por serviço;
+Totais agregados;
+Indicadores econômicos, sociais e ambientais.
+O resultado é uma tabela final do modelo de custos, contendo todas as informações individuais e gerais dos serviços públicos, pronta para ser exibida em um painel interativo ou apresentada em formato de relatório técnico ou publicação análoga.
+Antes da execução das fórmulas, são carregados os dados relativos às variáveis obtidas por meio do deep research realizado com inteligência artificial. Em seguida, o código aplica as fórmulas do modelo de forma segregada entre governo e sociedade, além das fórmulas específicas para os indicadores. Cada grupo de cálculos é armazenado em um dataframe distinto, e cada dataframe é exportado como uma aba separada em uma planilha Excel, no formato “.xlsx”.
+O conteúdo completo do código em Python utilizado para esta etapa encontra-se disponível no ANEXO III.
+Visualização dos Resultados
+Após a consolidação da planilha no formato “.xlsx”, o arquivo é carregado na plataforma Power BI, que passa a alimentar um conjunto de visualizações destinadas a evidenciar aspectos quantitativos e qualitativos das economias geradas pelo modelo. O painel é estruturado para apresentar informações segmentadas entre economias calculadas sob a perspectiva da sociedade e do governo, além de exibir os somatórios agregados dessas economias. As visualizações incluem gráficos de diferentes tipos, que representam tanto os dados do período atual quanto a evolução histórica das variáveis ao longo dos meses, permitindo análises temporais detalhadas e comparações entre períodos. O objetivo é possibilitar uma compreensão aprofundada dos impactos da digitalização e gerar insights relevantes para a tomada de decisão.
+Para ampliar a capacidade analítica, o painel disponibiliza filtros dinâmicos que permitem segmentar os dados por ano, mês, órgão e serviço, garantindo maior granularidade na exploração das informações. Além disso, a ferramenta oferece a funcionalidade de exportação dos dados em formato tabular, abrangendo não apenas a planilha que alimenta o painel, mas também as planilhas provenientes do Estaleiro do Serpro e aquelas geradas por meio da pesquisa profunda com inteligência artificial. Essa estrutura assegura transparência e flexibilidade na utilização dos dados, permitindo que sejam empregados tanto em análises complementares quanto em publicações técnicas.
+Conclusão
+O desenvolvimento de um modelo de custos robusto, transparente e replicável representa um marco na modernização da Administração Pública e na consolidação de uma cultura de decisão orientada por evidências. Ao integrar a padronização de etapas com uma arquitetura analítica consistente — apoiada em dados oficiais, métodos conservadores de estimativa e instrumentos tecnológicos adequados — a Secretaria de Governo Digital (SGD) instituirá um referencial metodológico capaz de mensurar de forma confiável os benefícios da transformação digital, ampliando a eficiência do Estado e a qualidade dos serviços prestados à população.
+A sistematização proposta neste guia permite que ganhos econômicos, sociais e ambientais decorrentes da digitalização sejam mensurados de forma clara, auditável e comparável ao longo do tempo. A partir do cômputo desagregado por serviço e ente, e da consequente consolidação em painéis de monitoramento, o governo passa a dispor de um instrumento de gestão que sustenta o planejamento, orienta a priorização de iniciativas e qualifica a alocação de recursos públicos, privilegiando projetos com melhor relação entre custo, risco e impacto. Desse modo, a administração avança na direção de um Estado mais eficiente, responsivo e responsável, capaz de comunicar à sociedade, de forma objetiva e tempestiva, os resultados alcançados.
+Outro aspecto central do modelo é sua replicabilidade. Ao adotar um rol padronizado de etapas, variáveis atualizáveis e critérios metodológicos prudenciais, a abordagem aqui consolidada facilita a adoção por entes subnacionais, respeitadas suas particularidades institucionais e operacionais. Essa característica reduz barreiras técnicas, estimula a homogeneidade de critérios e viabiliza comparações horizontais entre órgãos e esferas de governo, fomentando cooperação federativa e o compartilhamento de boas práticas.
+O aspecto de replicabilidade possibilitou outro grande diferencial do modelo que é a sua integração e orientação com o Portal Gov.br. Essa diretriz tornou possível que o modelo de custo faça uso direto dos dados do Portal Gov.br, reduzindo, significativamente, a necessidade de intervenção humana, uma vez que os dados relacionados aos serviços, cerne principal e fundamental que sustenta todo o modelo, advém do próprio Portal Gov.br, resultando, desta forma, em estimativas mais confiáveis, padronizadas e principalmente extinguindo a necessidade de coleta de dados manuais junto aos Órgãos públicos.
+O caráter incremental e evolutivo do modelo reforça sua utilidade prática. A atualização periódica de variáveis, o refinamento de fontes, a incorporação de novos indicadores e a melhoria contínua das técnicas analíticas permitem aprimorar a acurácia das mensurações e expandir o escopo das análises. Ao mesmo tempo, a adoção deliberada de premissas conservadoras preserva a credibilidade dos resultados, mitigando o risco de superestimações e assegurando que as decisões de política pública se apoiem em estimativas prudentes e verificáveis.
+A transparência ativa ocupa papel estruturante nesta iniciativa. Ao disponibilizar resultados em painéis interativos, com segmentações por sociedade e governo e com possibilidade de acompanhamento temporal, o modelo favorece a prestação de contas, o controle social e o diálogo qualificado com órgãos de governança e controle. Tal abertura de dados fortalece a legitimidade das políticas de transformação digital e estimula o engajamento de usuários e gestores, viabilizando ciclos de retroalimentação que contribuem para a melhoria contínua dos serviços.
+Cumpre ressaltar, ainda, que a combinação de métodos quantitativos, padronização operacional e automação de processos confere escalabilidade e sustentabilidade à mensuração de resultados. Ao equilibrar sofisticação técnica com simplicidade operacional, a abordagem permite reduzir custos de implementação, otimizar o uso do capital humano e acelerar o tempo de resposta entre a coleta de dados, a produção de evidências e a tomada de decisão.
+Em síntese, a consolidação do modelo aqui descrito habilita o governo federal a visualizar com clareza os benefícios e as economias decorrentes do contínuo movimento de digitalização de serviços, ao mesmo tempo em que oferece ferramentas práticas para orientar investimentos, avaliar impactos e priorizar iniciativas com maior retorno público. Ao promover eficiência, transparência e accountability, o modelo contribui diretamente para o aumento do bem-estar social, o fortalecimento institucional e a qualificação das políticas públicas no contexto da transformação digital.
